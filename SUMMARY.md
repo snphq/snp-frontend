@@ -1,5 +1,5 @@
 # Summary
 
 * [Введение](README.md)
-* [Анимации](animationsmd.md)
+* [Анимации](animations.md)
 
