@@ -4,7 +4,7 @@
 * [Анимации](animations.md)
 * [Адаптивность](adaptive.md)
 * [Аналитики](analytics.md)
-* [Проверенные компоненты](components.md)
+* [Компоненты](components.md)
 * [Оценка](estimate.md)
 * [Карты](maps.md)
 * [Мобильные устройства](mobile.md)
